@@ -2,11 +2,8 @@
 
 **VidhyaDhan (Online Scholarship Management System)**
 
-Group Members(5): Vraj Dobariya, Dip Baldha, Rishi Godhasara, Aman Mangukiya, Darshak Kukadiya
-
 What is Vidhyadhan? : Database on Scholarships Management which are handled online with including eligibility criteria.
 
-Project assigned by : Prof. Pokhar Mal Jat (DAIICT)
 College : Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)
 
 
